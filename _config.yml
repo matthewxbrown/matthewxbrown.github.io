@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Matthew X Brown
-description: 
+description: Personal Resume Website
+url: "https://matthewxbrown.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
